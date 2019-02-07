@@ -24,6 +24,3 @@ See [docs/deploy.md](docs/deploy.md) if you would like to run your own instance 
 [deps-href]: https://david-dm.org/uber-web/probot-app-label-dependency-pr
 [npm-badge]: https://badge.fury.io/js/probot-app-label-dependency-pr.svg
 [npm-href]: https://www.npmjs.com/package/probot-app-label-dependency-pr
-
-
-Test
